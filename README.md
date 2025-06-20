@@ -58,9 +58,8 @@ The final SELECT produces a dataset compatible with `SGBSTDN`, including fields 
 ## 🧠 Author
 
 **Nipit Pongpan**  
-Application Specialist, Higher Education Technology  
+Application Specialist, St Augustine College at Lewis University
 📍 Chicago, IL  
-🔗 [GitHub Profile](https://github.com/your-username) *(replace with yours)*
 
 ---
 
